@@ -7,7 +7,7 @@ package org.practischool;
 public class App 
 {
     public static String xiaoXiong() {
-        return "";
+        return "xiao xiong";
     }
 
     public static void main( String[] args )
