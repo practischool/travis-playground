@@ -6,8 +6,12 @@ package org.practischool;
  */
 public class App 
 {
+    public static String xiaoXiong() {
+        return "";
+    }
+
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println(xiaoXiong());
     }
 }
